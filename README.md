@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @9yearsDev
+- 👀 I’m interested to be a game dev
+- 🌱 I’m currently learning JavaScript HTML C++ Scratch
